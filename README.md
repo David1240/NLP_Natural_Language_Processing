@@ -22,6 +22,11 @@ After completing this project, you will be able to use pre-trained transformer m
 ### What You'll Need
 You just need a web browser!  Basic Python programming knowledge is recommended but it is not required. 
 Everything else is provided to you via the IBM Skills Network Labs environment, where you will have access to the Cloud IDE and Python runtimes that we offer as part of the IBM Skills Network Labs environment. Remember that the IBM Skills Network Labs environment comes with many things pre-installed (e.g. Docker) to save them the hassle of setting everything up. Also note that this platform works best with current versions of Chrome, Edge, Firefox, Internet Explorer or Safari.
-p
+
+
 <br>
-p
+<br>
+
+# Info
+
+
