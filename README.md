@@ -28,5 +28,8 @@ Everything else is provided to you via the IBM Skills Network Labs environment, 
 <br>
 
 # Info
+Name: David Hamonangan Sirait
+Program: IBM Advance AI
+Personal Mentor: Siska Anggraeni
 
 
